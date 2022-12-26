@@ -1,5 +1,5 @@
 # basicXMLtoStructParser
-A basic &amp; simple XML to struct converter. This tiny app shows an 
+A basic &amp; simple XML to struct converter in CFML. This tiny app shows an 
 exmple of reading an xml data file and mapping the data 
 to a cfml struct.
 
